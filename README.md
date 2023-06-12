@@ -1,4 +1,4 @@
-# my-semantics-NLP
+# semantics_NLP-Task_1
 
 To run the semantics.py file, follow the instructions below:
 
